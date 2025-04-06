@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr  5 23:44:48 2025
-
-@author: vishn
+This is the code used to plot Figure 6 of the Lab Report. It scatters the points and fits a linear fit to the data. 
 """
 
 import matplotlib.pyplot as plt
