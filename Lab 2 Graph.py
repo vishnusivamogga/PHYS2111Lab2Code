@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 31 19:19:58 2025
-
-@author: vishn
+Most of this code is a function which fits the curve, plots it, obtains the error bounds and computes the distances from the maximima with errors. 
+The obtained experimental data is put through this function to get the relevant data.
 """
 
 import numpy as np
